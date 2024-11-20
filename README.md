@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 
 ## About Me
-Hi, I’m **@Usamaafzall**, a dedicated software developer with a passion for creating efficient, user-focused applications. 
+Hi, I’m **Usama Afzal**, a dedicated software developer with a passion for creating efficient, user-focused applications. 
 
 - 💻 **Interests:** I specialize in programming and love exploring innovative solutions to complex problems. 
 - 🚀 **Currently Learning:** Flutter – building dynamic, cross-platform applications is my top priority. ❤️
