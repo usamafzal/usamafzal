@@ -1,6 +1,4 @@
-# 👋 Welcome to My GitHub Profile
-
-## About Me
+##👋 About Me
 Hi, I’m **Usama Afzal**, a dedicated software developer with a passion for creating efficient, user-focused applications. 
 
 - 💻 **Interests:** I specialize in programming and love exploring innovative solutions to complex problems. 
