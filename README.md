@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @Usamaafzall
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Flutter ❤️
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: Gaming & Seasons Lover
-- 📫 How to reach me ...
+# 👋 Welcome to My GitHub Profile
+
+## About Me
+Hi, I’m **@Usamaafzall**, a dedicated software developer with a passion for creating efficient, user-focused applications. 
+
+- 💻 **Interests:** I specialize in programming and love exploring innovative solutions to complex problems. 
+- 🚀 **Currently Learning:** Flutter – building dynamic, cross-platform applications is my top priority. ❤️
+- 🤝 **Collaboration:** I’m open to collaborating on meaningful software projects that make an impact. Let's build something remarkable together.
+- 🎮 **Hobbies:** When I'm not coding, I enjoy gaming and appreciating the beauty of seasonal changes.
+
+## Connect With Me
+- 📫 Feel free to reach out for project discussions, collaborations, or professional inquiries.
 
 <!---
 Usamaafzall/Usamaafzall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Click the Preview link to explore my contributions and projects.
 --->
