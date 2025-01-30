@@ -2,7 +2,7 @@
 Hi, I’m **Usama Afzal**, a dedicated software developer with a passion for creating efficient, user-focused applications. 
 
 - 💻 **Interests:** I specialize in programming and love exploring innovative solutions to complex problems. 
-- 🚀 **Currently Learning:** Flutter – building dynamic, cross-platform applications is my top priority. ❤️
+- 🚀 **Currently Learning:** Jetpack Compose – building dynamic, Native applications is my top priority. ❤️
 - 🤝 **Collaboration:** I’m open to collaborating on meaningful software projects that make an impact. Let's build something remarkable together.
 ## Connect With Me
 - 📫 Feel free to reach out for project discussions, collaborations, or professional inquiries.
